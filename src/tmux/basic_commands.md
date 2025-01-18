@@ -5,6 +5,10 @@
 The standard prefix is `Control b`. I changed it to `Control space`. You can
 set it to whatever you feel most comfortable with.
 
+# How to get into the command line
+
+`<prefix> :`
+
 # Sessions
 
 ## How to open a new tmux session without a name
