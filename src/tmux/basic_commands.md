@@ -62,3 +62,7 @@ tmux kill-session -a
 # Windows
 
 # Panes
+
+# Show the current time
+
+`<prefix> t`
