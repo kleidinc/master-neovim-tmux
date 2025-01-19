@@ -1,10 +1,16 @@
 # Lazygit
 
-Although you can do anything git in the console, you need to break your flow and leave
-the programming environment to the shell, to type the git commands.
+Although you can git in the console, every time you do that, you break your work-flow,
+risking distractions and leaving the 'zone'.
 
-It's much better, to stay inside your neovim or tmux and just perform the commits
-without leaving. That way you will stay in the zone for longer periods of time,
-and be more productive.
+If you want to stay in the zone, it's much better to open up lazygit, perform the necessary
+git actions, and continue with programming.
+
+This is faster, more efficient, and most important, you stay in the 'zone'. Your programming
+workflow isn't broken.
+
+Lazygit offers a much better and richer git experience.
+
+Solving merge conflics, undo's, and advanced git actions become easy and even fun.
 
 <!-- TODO: give an anecdote to bring the point across -->

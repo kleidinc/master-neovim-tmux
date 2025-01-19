@@ -14,6 +14,7 @@
 - [Lazygit](lazygit/README.md)
 
   - [Install](lazygit/install.md)
+  - [Introduction](lazygit/overview.md)
   - [Lazygit Workflow](lazygit/workflow.md)
   - [Working with branches](lazygit/branches.md)
   - [Merge Workflow](lazygit/merge_workflow.md)

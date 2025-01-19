@@ -1,21 +1,16 @@
 # Lazygit Workflow
 
-Let's say you are writing code in a tmux neovim session.
+Let's say you want to stage some changes. You just launch lazygit with
+`<prefix> G` or your personal shortcut.
 
-You save your code and you want to commit.
+Lazygit will launch inside your tmux session. It will automatically
+focus on the window.
 
-`<prefix> G`
-
-The lazygit opens inside your tmux session.
-
-You select the parts you want to commit with a `space`.
-
+You select the parts you want to stage with a `space`.
 If you want to stage all changes press `a`.
 
 To commit press `c`.
 
 To push the changes press `p`.
-
-It's as simple as that.
 
 To leave lazygit and return to your coding environment press `q`.
