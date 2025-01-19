@@ -9,6 +9,7 @@
 - [Neovim](neovim/README.md)
 
   - [Essential Commands](neovim/essential_commands.md)
+  - [Navigating Large Files](neovim/navigating_large_files.md)
   - [Essential Plugins](neovim_essential_plugins.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
 
