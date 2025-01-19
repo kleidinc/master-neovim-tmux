@@ -5,6 +5,10 @@
   - [Why Neovim](intro/why_neovim.md)
   - [Why TMUX](intro/why_tmux.md)
 
+- [Neovim](neovim/README.md)
+
+  - [Lazygit](neovim/lazygit.md)
+
 - [Advanced](./advanced_nvim/README.md)
 - [tmux](tmux/README.md)
   - [Basic Concepts](tmux/basic_tmux_concepts.md)

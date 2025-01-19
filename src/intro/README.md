@@ -2,30 +2,39 @@
 
 If you plan on becoming a master programmer, you will be programming for the majority of
 your life. Even if you move up the career-ladder, you still will have to write code,
-review code, refactor code. This will be something you will be doing daily.
+review code, refactor code and tinker. This will be something you will be doing daily.
+And this is also how you will achieve and keep your mastery.
 
-Your coding environment is as important as the languages you master. Because you will
+Your programming environment is as important as the languages you master, because you will
 be using it daily for the rest of your life.
 
-# Touch typing on a split keyboard
+That's why mastering how to setup, configure, and program your programming environment is
+as important as the code you will be writing.
+
+# Touch-typing on a split-keyboard
 
 The mainstream keyboards are not optimized for programmers. That's why you will often see
-proficient coders using mechanic keyboards and evern split keyboards.
+proficient coders using mechanical keyboards, and evern split keyboards.
 
 Your keyboard is your best friend. You will be using your keyboard through-out your whole
-coding career. Touch typing is essential. Although you can start to work with a mainstream
-keyboard, I strongly suggest you get a mechanical split keyboard. The benefit of mechanical
-keys is that your fingers, and thus your brain, receives feedback. That way you will learn
-to type faster easier.
+coding career. Touch typing is essential. Although you can start working with a mainstream
+keyboard, I strongly suggest you get a mechanical split keyboard or at least a mechanical one.
+
+The benefit of mechanical keys is that your fingers, and thus your brain, receives feedback.
+That way you will learn to type faster easier.
 
 And don't worry, if are not like me, who lives outside in the wilderness, you can choose
-silent keys with a split keyboard.
+silent keys with a split keyboard:). I love nature, but that's for another time.
 
 # Switch to Neovim and Tmux
 
 I have a love-hate relationship with open-source. But it has given us amazing development
 tools as neovim, tmux, and a never-ending influx of usefull plugins and a thriving community
 around it.
+
+_The reason why I feel that open-source is broken, is that people, who provide truly useful
+code, are not adequately rewarded. I haven't yet figured out how to fix that, but at least
+I am now also giving back to the community by writing this book._
 
 First I switched to Neovim, and then added tmux to my environment, and now I can't even imagine
 going back to some 'commercial' product.
