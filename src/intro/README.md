@@ -35,11 +35,11 @@ Although I have a love-hate relationship with open-source, it has given us amazi
 tools like neovim, tmux, lazygit and a never-ending influx of usefull plugins and a
 thriving helpful community around it.
 
-\_The reason why I feel that open-source is broken, is that people, who provide truly useful
-code, are not adequately rewarded. I feel that the big tech monopolies
-abuse the open source community of programmers as modern day slaves. They use, and monetize,
-learn from, their work for free. Even the current AI coding agents use the open source without
-remuneration.\_
+> The reason why I feel that open-source is broken, is that people, who provide truly useful
+> code, are not adequately rewarded. I feel that the big tech monopolies
+> abuse the open source community of programmers as modern day slaves. They use, and monetize,
+> learn from, their work for free. Even the current AI coding agents use the open source without
+> remuneration.
 
 First I switched to Neovim, and then added tmux to my environment, and then finally lazygit,
 and now I can't even imagine going back to some 'commercial' product that can't even come
@@ -110,10 +110,10 @@ You can only achieve mastery if you put in the work.
 
 I will leave you with two thoughts.
 
-_When you are copy-pasting code snippets from an AI agent, your brain becomes lazy, and
-you become stupid, and over time totally irrelevant and fired._
+> When you are copy-pasting code snippets from an AI agent, your brain becomes lazy, and
+> you become stupid, and over time totally irrelevant and fired.
 
-_You can't learn to play the piano, by watching someone else play the piano in a video. It's
-the same for coding. If you don't want to become irrelevant in 3 to 5 years, you need to code
-without AI. Then, and only then, will you reach a proficiency that will empower you to be
-part of the 1% of coders, who will still have a job._
+> You can't learn to play the piano, by watching someone else play the piano in a video. It's
+> the same for coding. If you don't want to become irrelevant in 3 to 5 years, you need to code
+> without AI. Then, and only then, will you reach a proficiency that will empower you to be
+> part of the 1% of coders, who will still have a job.\_
