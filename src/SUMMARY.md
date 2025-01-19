@@ -15,6 +15,7 @@
 
   - [Install](lazygit/install.md)
   - [Lazygit Workflow](lazygit/workflow.md)
+  - [Merge Workflow](lazygit/merge_workflow.md)
   - [Fix Merge Conflicts](lazygit/fix_merge_conflits.md)
 
 - [tmux](tmux/README.md)
