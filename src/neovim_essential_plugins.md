@@ -1,10 +1,9 @@
-# Essential Plugins
+# Essential Plugins For Distraction Free Coding
 
 ### [Focus](https://github.com/cdmill/focus.nvim?tab=readme-ov-file)
 
-This is my plugin of choice to code distraction free. You can remove everything except the
-line numbers. This will help you get into a state of total focus and stay in it for hours
-on end, without even noticing.
+You can remove everything except the line numbers. This will help you get into
+a state of total focus and stay in it for hours on end, without even noticing.
 
 I have the `:Focus` command mapped to to `<leader>fo` fo for focus. It removes the status-bar
 for both neovim, tmux and the diagnostics.
