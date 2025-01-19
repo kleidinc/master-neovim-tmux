@@ -79,7 +79,7 @@ Read the source-code of open source projects.
 First of all, AI is just machine learning from other people's code. So called AI can
 not assertain the true quality of other people's code it is 'learning' from.
 
-Garbage in, garbage out.
+> Garbage in, garbage out.
 
 Every
 AI agent needs to learn from something. It needs data. Most of it, if not all, was
@@ -90,7 +90,7 @@ and updates. Even they write buggy code.
 
 What do you think the quality of the majority of the code, used to train the AI agents, is?
 
-### When to use AI
+## When to use AI
 
 Only if you can't fix a problem yourself, try AI, and treat it as a stupid helper, a sort
 of second opinion. Don't trust it 100%. Trust but verify, applies here. Try to understand why your
@@ -98,6 +98,9 @@ code didn't work. Your brain works best when it has to solve a problem.
 
 Very important. Do not rely on AI to do the work for you. If AI can do it, you're not
 even a programmer.
+
+> If you are excited about AI, learn how to build AI models, and how to implement AI into your
+> own products to improve them.
 
 ## Train your Programmer's Brain
 
