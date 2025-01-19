@@ -30,3 +30,7 @@
   - [Using tmux interactively](tmux/using_tmux_interactively.md)
 
   - [In the zone](workflow/README.md)
+
+# Disabled Plugins
+
+- [Maybe Nvim Plugins](disabled/neovim_plugins.md)
