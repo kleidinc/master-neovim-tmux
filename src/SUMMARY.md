@@ -2,6 +2,7 @@
 
 - [Why this book](intro/README.md)
 
+  - [Thanks](intro/thanks.md)
   - [Why Neovim](intro/why_neovim.md)
   - [Why TMUX](intro/why_tmux.md)
 
