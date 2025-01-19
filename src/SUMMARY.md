@@ -8,6 +8,8 @@
 
 - [Neovim](neovim/README.md)
 
+  - [Essential Commands](neovim/essential_commands.md)
+  - [Essential Plugins](neovim_essential_plugins.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
 
 - [Advanced](./advanced_nvim/README.md)
