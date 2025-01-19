@@ -1,16 +1,23 @@
 # Lazygit Workflow
 
-Let's say you want to stage some changes. You just launch lazygit with
-`<prefix> G` or your personal shortcut.
+<!-- TODO: Add an example with panels -->
 
-Lazygit will launch inside your tmux session. It will automatically
-focus on the window.
+## Staging, committing and pushing changes
 
-You select the parts you want to stage with a `space`.
-If you want to stage all changes press `a`.
+Whether you are in the master, or another branch, the workflow stays the same.
 
-To commit press `c`.
+1. Launch lazygit with `<prefix> G`, or your personal key-command.
 
-To push the changes press `p`.
+2. Lazygit will launch inside your tmux session. It will automatically
+   focus on the window, with the changes. If it's not focussed there,
+   press `2`.
 
-To leave lazygit and return to your coding environment press `q`.
+3. Select the parts you want to stage with a `space`.
+
+4. If you want to stage all changes press `a`.
+
+5. To commit press `c`.
+
+6. To push the changes press `p`.
+
+7. Leave lazygit, and return to your coding environment press `q`.
