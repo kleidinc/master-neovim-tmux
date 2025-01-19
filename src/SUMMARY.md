@@ -25,7 +25,7 @@
   - [Basic Concepts](tmux/basic_tmux_concepts.md)
   - [Install tmux plugins](tmux/install_plugins.md)
   - [Basic tmux commands](tmux/basic_commands.md)
-  - [Managing Projects](tmux/managing_projects.md)
+  - [Managing Projects via tms](tmux/managing_projects.md)
   - [Using tmux interactively](tmux/using_tmux_interactively.md)
 
   - [In the zone](workflow/README.md)
