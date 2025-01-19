@@ -1,8 +1,8 @@
 # Lazygit
 
-You can perfectly continue to git in the console, leaving your editor and switching to the
-console. But every time you do that, you kind of break your flow, and risk distractions,
-which in turn force you to leave 'the flow' or 'the zone'.
+You can perfectly continue to git in the console, switching back and forth between your
+editor and the console. But every time you do that, you break your workflow, and risk
+leaving 'the flow' or 'the zone'.
 
 There is a reason why master programmers can code for hours on end, and be very productive.
 They stay in the 'zone'. It's like being inside a continuous state of focus.
