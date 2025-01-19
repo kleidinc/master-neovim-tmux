@@ -37,24 +37,26 @@ thriving helpful community around it.
 
 > The reason why I feel that open-source is broken, is that people, who provide truly useful
 > code, are not adequately rewarded. I feel that the big tech monopolies
-> abuse the open source community of programmers as modern day slaves. They use, and monetize,
-> learn from, their work for free. Even the current AI coding agents use the open source without
+> abuse the open source community as modern day slaves. They use, abuse, learn from, and monetize,
+> , open-source work for free. Even the current AI coding agents 'ab'use the open source code without
 > remuneration.
 
-First I switched to Neovim, and then added tmux to my environment, and then finally lazygit,
-and now I can't even imagine going back to some 'commercial' product that can't even come
-close to my current workflow.
+I first switched from VSCode and Jetbrains to Neovim. Then I added tmux to the mix, and finally lazygit.
+Now I can't even imagine going back to some 'commercial' product, that can't even come
+close to my current workflow. It's not about the cost. They are just inferior to a well configured
+personal programming environment.
 
-I've become much faster. I can switch back and forth between projects in a few
-keystrokes.
+I've become much faster. I can switch back, and forth between projects, in just a few
+keystrokes, without leaving my work flow. I stay in the zone.
 
-And trust me, once you start working with keys, bypassing the mouse, you will train your mechanical
-memory and after a few months, you won't even have to think about keymaps. Programming will become as
-natural as breathing.
+And trust me, once you start working with keys, instead of the mouse, you will train your mechanical
+memory and after a few months, you won't even have to think about what keys are used for what commands.
+Programming will become as natural as breathing.
 
-This book will guide you through the process of installing, configuring and using your TUI.
+This book will guide you through the process of installing, configuring and using your PPE, Personal
+Programming Environment.
 
-You will install, and configure your neovim, tmux, and learn about essential plugins.
+You will install, and configure your neovim, tmux, lazygit and learn about essential plugins.
 
 ## Read books, documentation and source-code of open-source projects
 
@@ -68,11 +70,11 @@ The reason why I am writing this book, is because I haven't found a book coverin
 Neovim, Tmux, and Lazygit terminal development environment. There are thousands of mixed-quality videos,
 and so called-tutorials, but the absolute majority won't give you a complete setup.
 
-Read documentation.
+Read the documentation.
 
-Read source-code of open source projects.
+Read the source-code of open source projects.
 
-## Use AI wisely or better even, don't
+## Use AI wisely, or even better, don't use it.
 
 First of all, AI is just machine learning from other people's code. So called AI can
 not assertain the true quality of other people's code it is 'learning' from.
@@ -97,7 +99,7 @@ code didn't work. Your brain works best when it has to solve a problem.
 Very important. Do not rely on AI to do the work for you. If AI can do it, you're not
 even a programmer.
 
-## Train your Programmer's brain
+## Train your Programmer's Brain
 
 Your brain is much more powerful than the strongest AI. When you write code yourself,
 your brain works. When you are thinking about a coding problem, your brain works.
