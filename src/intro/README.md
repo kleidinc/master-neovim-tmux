@@ -11,6 +11,9 @@ be using it daily for the rest of your life.
 That's why mastering how to setup, configure, and program your programming environment is
 as important as the code you will be writing.
 
+The default config in this book is set up for Rust, markdown, lua you can easily extend it
+to any programming language you want.
+
 # Touch-typing on a split-keyboard
 
 The mainstream keyboards are not optimized for programmers. That's why you will often see

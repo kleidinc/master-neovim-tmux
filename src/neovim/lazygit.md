@@ -22,4 +22,4 @@ on a daily basic from my shell.
 `git merge <new_branch_name>`
 `git push -u origin master`
 
-## Lazygit Neovim Plugin
+## Lazygit Plugin
