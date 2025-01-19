@@ -1,16 +1,22 @@
 # Lazygit
 
-Although you can git in the console, every time you do that, you break your work-flow,
-risking distractions and leaving the 'zone'.
+You can perfectly continue to git in the console, leaving your editor and switching to the
+console. But every time you do that, you kind of break your flow, and risk distractions,
+which in turn force you to leave 'the flow' or 'the zone'.
 
-If you want to stay in the zone, it's much better to open up lazygit, perform the necessary
-git actions, and continue with programming.
+There is a reason why master programmers can code for hours on end, and be very productive.
+They stay in the 'zone'. It's like being inside a continuous state of focus.
+
+To achieve that you need as little distractions as possible. With lazygit you can achieve
+exactly that.
+
+You don't leave your programming environment, you just open-up lazygit, perform the necessary
+git commands, in the same environment as your TUI, and continue with work.
 
 This is faster, more efficient, and most important, you stay in the 'zone'. Your programming
 workflow isn't broken.
 
-Lazygit offers a much better and richer git experience.
-
-Solving merge conflics, undo's, and advanced git actions become easy and even fun.
+Lazygit offers a much better and richer git experience. Solving merge conflics, undo's,
+and even the most advanced git actions become easy, and even fun.
 
 <!-- TODO: give an anecdote to bring the point across -->
