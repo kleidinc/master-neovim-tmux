@@ -1,5 +1,9 @@
 # Why this book
 
+<!-- > This book is an ongoing project. Every month I send out the <choose name> Update, -->
+<!-- > with new plugins, updates, a curation of the best lectures on coding via email. -->
+<!-- > Short, and to the point. [Sign-up here]() to stay up to date. -->
+
 If you plan on becoming a master programmer, you will be programming for the majority of
 your life. Even if you move up the career-ladder, you still will have to write code,
 review code, refactor code and tinker. This will be something you will be doing daily.

@@ -32,7 +32,9 @@
   - [Managing Projects via tms](tmux/managing_projects.md)
   - [Using tmux interactively](tmux/using_tmux_interactively.md)
 
-  - [In the zone](workflow/README.md)
+- [terminal cli tools](cli_tools/README.md)
+  - [yazi terminal navigator](cli_tools/yazi.md)
+- [In the zone](workflow/README.md)
 
 # Disabled Plugins
 
