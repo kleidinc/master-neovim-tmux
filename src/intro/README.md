@@ -14,10 +14,10 @@ as important as the code you will be writing.
 The default config in this book is set up for Rust, markdown, lua you can easily extend it
 to any programming language you want.
 
-# Touch-typing on a split-keyboard
+## Touch-typing on a split-keyboard
 
 The mainstream keyboards are not optimized for programmers. That's why you will often see
-proficient coders using mechanical keyboards, and evern split keyboards.
+proficient coders using mechanical keyboards, and more and more even split keyboards.
 
 Your keyboard is your best friend. You will be using your keyboard through-out your whole
 coding career. Touch typing is essential. Although you can start working with a mainstream
@@ -29,31 +29,34 @@ That way you will learn to type faster easier.
 And don't worry, if are not like me, who lives outside in the wilderness, you can choose
 silent keys with a split keyboard:). I love nature, but that's for another time.
 
-# Switch to Neovim and Tmux
+## Switch to TUI Neovim and Tmux
 
-I have a love-hate relationship with open-source. But it has given us amazing development
-tools as neovim, tmux, and a never-ending influx of usefull plugins and a thriving community
-around it.
+Although I have a love-hate relationship with open-source, it has given us amazing development
+tools like neovim, tmux, lazygit and a never-ending influx of usefull plugins and a
+thriving helpful community around it.
 
-_The reason why I feel that open-source is broken, is that people, who provide truly useful
-code, are not adequately rewarded. I haven't yet figured out how to fix that, but at least
-I am now also giving back to the community by writing this book._
+\_The reason why I feel that open-source is broken, is that people, who provide truly useful
+code, are not adequately rewarded. I feel that the big tech monopolies
+abuse the open source community of programmers as modern day slaves. They use, and monetize,
+learn from, their work for free. Even the current AI coding agents use the open source without
+remuneration.\_
 
-First I switched to Neovim, and then added tmux to my environment, and now I can't even imagine
-going back to some 'commercial' product.
+First I switched to Neovim, and then added tmux to my environment, and then finally lazygit,
+and now I can't even imagine going back to some 'commercial' product that can't even come
+close to my current workflow.
 
-There are no commercially available closed-source products available that can approach my
-current workflow. I've become much faster. I can switch back and forth between projects in a few
+I've become much faster. I can switch back and forth between projects in a few
 keystrokes.
 
 And trust me, once you start working with keys, bypassing the mouse, you will train your mechanical
-memory and after a few months, you won't even have to think about keymaps. It will become as
+memory and after a few months, you won't even have to think about keymaps. Programming will become as
 natural as breathing.
 
-This book will guide you through the process of installing, and configuring your neovim, and tmux
-configs, and also introduce some essential plugins.
+This book will guide you through the process of installing, configuring and using your TUI.
 
-# Read books, documentation and source-code of open-source projects
+You will install, and configure your neovim, tmux, and learn about essential plugins.
+
+## Read books, documentation and source-code of open-source projects
 
 Our brains can process books quite good. Books are treasure-troves of information. I never thought I would
 have to explain the benefits of a book, but here goes:
@@ -62,14 +65,14 @@ have to explain the benefits of a book, but here goes:
 2. You can read, re-read, ... and apply the steps.
 
 The reason why I am writing this book, is because I haven't found a book covering how to configure your
-development environment. There are thousands of mixed-quality videos and so called-tutorials, but the absolute
-majority won't give you a complete setup.
+Neovim, Tmux, and Lazygit terminal development environment. There are thousands of mixed-quality videos,
+and so called-tutorials, but the absolute majority won't give you a complete setup.
 
 Read documentation.
 
 Read source-code of open source projects.
 
-# Use AI wisely
+## Use AI wisely or better even, don't
 
 First of all, AI is just machine learning from other people's code. So called AI can
 not assertain the true quality of other people's code it is 'learning' from.
@@ -78,18 +81,18 @@ Garbage in, garbage out.
 
 Every
 AI agent needs to learn from something. It needs data. Most of it, if not all, was
-scraped from github, gitlab, and other repositories. If all code used to train the AI
+scraped (read stolen) from github, gitlab, and other repositories. If all the code used to train the AI
 was perfect, then yes, over time we, the programmers, would become obsolete. But, guess what
-, there is a reason why Windows, Linux, Android, Apple constantly pushes so-called security patches, and updates.
+, there is a reason why Windows, Linux, Android, Apple constantly push so-called security patches,
+and updates. Even they write buggy code.
 
-Even
-the code of the tech monopolies is flaud. I am not even talking about the code from
-repo's used for training AI.
+What do you think the quality of the majority of the code, used to train the AI agents, is?
 
 ### When to use AI
 
 Only if you can't fix a problem yourself, try AI, and treat it as a stupid helper, a sort
-of second opinion. Don't trust it 100%. Trust but verify, applies here.
+of second opinion. Don't trust it 100%. Trust but verify, applies here. Try to understand why your
+code didn't work. Your brain works best when it has to solve a problem.
 
 Very important. Do not rely on AI to do the work for you. If AI can do it, you're not
 even a programmer.
