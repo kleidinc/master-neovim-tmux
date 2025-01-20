@@ -19,7 +19,10 @@
   - [Navigating Large Files](neovim/navigating_large_files.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
 
-- [Advanced Nvim](./advanced_nvim/README.md)
+- [Dadbod Database Plugin](dadbod/README.md)
+
+  - [Essential Commands](dadbod/essential_commands.md)
+  - [Queries inside Neovim](dadbod/run_save_queries.md)
 
 - [Lazygit](lazygit/README.md)
 
