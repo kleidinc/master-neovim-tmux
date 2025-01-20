@@ -15,6 +15,7 @@
   - [Install Neovim](neovim/install.md)
   - [Essential Plugins to Install](neovim_essential_plugins.md)
   - [Essential Nvim Commands](neovim/essential_commands.md)
+  - [Distraction Free Coding](neovim/distraction_free_coding.md)
   - [Navigating Large Files](neovim/navigating_large_files.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
 
