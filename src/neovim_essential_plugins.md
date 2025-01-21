@@ -25,3 +25,8 @@ plugins = {
     -- twilight = { enabled = true }, -- enable to start Twilight when zen mode opens
   },
 ```
+
+### [Marks](https://github.com/chentoast/marks.nvim)
+
+Marks are very important when navigating through large files, and projects. This plugin
+improves the standard experience.

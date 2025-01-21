@@ -1,5 +1,9 @@
 # Essential Commands
 
+### How to open files fast?
+
+`e`
+
 ## how to save and quit
 
 ZZ
