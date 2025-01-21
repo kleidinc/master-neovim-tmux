@@ -17,6 +17,7 @@
   - [Essential nvim Commands](neovim/essential_commands.md)
   - [Distraction Free Coding](neovim/distraction_free_coding.md)
   - [Navigating Large Files](neovim/navigating_large_files.md)
+  - [Telescope: Your new best friend](neovim/telescope.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
 
 - [Dadbod Database Plugin](dadbod/README.md)
