@@ -38,12 +38,12 @@
 - [tmux](tmux/README.md)
 
   - [Basic tmux Concepts](tmux/basic_tmux_concepts.md)
-  - [Essential tmux plugins](tmux/install_plugins.md)
-  - [Essential tmux commands](tmux/basic_commands.md)
+  - [Essential plugins](tmux/install_plugins.md)
+  - [Essential commands](tmux/basic_commands.md)
   - [Managing Projects via tms](tmux/managing_projects.md)
   - [Using tmux interactively](tmux/using_tmux_interactively.md)
 
-- [Terminal cli Tools](cli_tools/README.md)
+- [Terminal Cli Tools](cli_tools/README.md)
 
   - [yazi File Navigator](cli_tools/yazi.md)
 
