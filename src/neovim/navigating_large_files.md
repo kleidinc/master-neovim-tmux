@@ -1,18 +1,41 @@
-# Advanced
+# How to Efficiently Navigate Large Files
 
-## How to navigate in the current large files
+When you build serious things, files often become very large
+and difficult to navigate. Here are some tips on how to stay
+productive.
 
-### Set a mark
+## Marks
 
-m + some other letter letter -> this will set a marker / m a
+The most efficient way when you are working with large files, is
+to set marks, at functions, structs, enums, ... you are working
+on. Then you can easily move back and forth. This will speed up
+coding, and is a real productivity boast.
 
-### Jump to a mark
+### How to Set a Mark
 
-' + name of the mark (quote + name of the mark) / 'a
+`m + <lowercase_letter>` -> this will set a marker / m a
 
-### If you want to jump accross files then you need to use CAPITALS for setting the mark
+- Lowercase letters are used for marks if you only want to set a mark,
+  accessible when you are inside the document.
+- Capital letters are used, when you want the mark to be accessible
+  from outside the file.
 
-m + A
+### How to Jump to a Mark
+
+If you remember the mark, you can just perform:
+
+`' + <letter_of_the_mark>` (quote + name of the mark) / 'a
+
+If you don't remember, `Telescope marks`, which lists all current marks
+in your project.
+
+### How to Delete a Mark from Telescope?
+
+## Navigate by Line Numbers
+
+Often the compiler will compain, and list a line number and a column.
+You can easily jump to any needed location in a file with the following
+short-cuts.
 
 ## How to jump to a specific line
 

@@ -14,7 +14,7 @@
 
   - [Install Neovim](neovim/install.md)
   - [Essential Plugins to Install](neovim_essential_plugins.md)
-  - [Essential Nvim Commands](neovim/essential_commands.md)
+  - [Essential nvim Commands](neovim/essential_commands.md)
   - [Distraction Free Coding](neovim/distraction_free_coding.md)
   - [Navigating Large Files](neovim/navigating_large_files.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
@@ -23,6 +23,7 @@
 
   - [Essential Commands](dadbod/essential_commands.md)
   - [Queries inside Neovim](dadbod/run_save_queries.md)
+  - [When Errors Occur](dadbod/errors.md)
 
 - [Lazygit](lazygit/README.md)
 

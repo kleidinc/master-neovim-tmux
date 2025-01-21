@@ -15,3 +15,5 @@ Or you can remap `DBUI_SaveQuery` to another keymap.
 `<leader>S`
 
 Or remap `:DBUI_ExecuteQuery` to another keymap.
+
+### How to re-execute all queries?
