@@ -1,5 +1,17 @@
 # Essential Plugins For Distraction Free Coding
 
+### [Context]()
+
+to find and install
+
+### [Harpoon]()
+
+Easier way to just between files in a project. You can add files and then with a
+shortcut jump from one file to another. That way you can bypass NvimTree and even
+Telescope when you are working on a limited amount of files.
+
+<!-- TODO: Install -->
+
 ### [Focus](https://github.com/cdmill/focus.nvim?tab=readme-ov-file)
 
 You can remove everything except the line numbers. This will help you get into

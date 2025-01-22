@@ -1,5 +1,89 @@
 # Essential Commands
 
+These are commands that still need to be organized.
+
+## How to change something?
+
+`c` motion + `i` for in + `suffix`
+
+The suffix can be `w` for word
+
+That becomes `ciw`, which is a change in word.
+
+### How to replay a ciw motion in the next occurrence?
+
+`.` which is a dot.
+
+### How to change all the occurrences of a word inside a file?
+
+Use the `sed` command.
+`:%s/WhatYouWantToChange/ToWhatYouWantToChangeItTo/g`
+
+The `g` at the end means global, which in a file means all the occurrences in the
+current file.
+
+If you want to confirm every change, just add a `c` after the `g`, so it becomes
+`:%s/WhatYouWantToChange/ToWhatYouWantToChangeItTo/gc`
+
+### How to just x lines down?
+
+### Go to the next selection in a list
+
+`Control n`
+
+n for next.
+
+### How to accept a selection?
+
+`Control y`
+
+y for yes.
+
+### How to jump, over a comma?
+
+`f,`
+
+f for forward?
+
+### How to jump back from where you came?
+
+`Control+o`
+
+### What does a codeaction in Lsp do?
+
+`<leader>ca`
+
+It can help you fix a problem. It usually would present you with options.
+
+### How to search for an instance of a word in a file?
+
+`*`
+
+`n` to go to the next occurrence of that word in the file.
+`shift n`, which is `capital N`, to go to the previous occurrence of that word in the file.
+
+### How to cut out a word?
+
+`ciw`
+
+### How to cut out a word between ""?
+
+`ci"`
+
+<!-- ### Jump to the controller -->
+<!---->
+<!-- `fc` -->
+
+### Just to the definition
+
+`gd`
+
+## How to jump to line xx
+
+Let's say you want to jump to line 45?
+
+`:45`
+
 ### How to open files fast?
 
 `e`
