@@ -1,8 +1,8 @@
 # Thanks
 
 This book is heavily inspired by the open source code, and video tutorials of TJ Devries
-(Neovim), Primagen (Harpoon), Jon Gjengset (Rust Decrusting), Hector (Iced), ...
-and many, many others.
+(Neovim), Primagen (Harpoon), Jon Gjengset (Rust Decrusting), Hector (Iced), and many,
+many others.
 
 Writing this book is my way of doing something back for the community, which directly and
 indirectly made me into a better programmer.

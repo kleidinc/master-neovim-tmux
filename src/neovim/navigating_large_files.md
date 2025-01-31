@@ -7,7 +7,7 @@ productive.
 ## Marks
 
 The most efficient way when you are working with large files, is
-to set marks, at functions, structs, enums, ... you are working
+to set marks, at functions, structs, and enums you are working
 on. Then you can easily move back and forth. This will speed up
 coding, and is a real productivity boast.
 

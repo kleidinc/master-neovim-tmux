@@ -10,6 +10,8 @@
 Go to the place where you want to copy that word and
 press `p`aste, to paste it.
 
+## Registers
+
 ### Pattern to copy data from previously yanked data
 
 All data you yank, copy or delete, goes to a register.

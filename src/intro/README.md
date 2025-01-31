@@ -36,13 +36,13 @@ silent keys with a split keyboard:). I love nature, but that's for another time.
 ## Switch to TUI Neovim and Tmux
 
 Although I have a love-hate relationship with open-source, it has given us amazing development
-tools like neovim, tmux, lazygit and a never-ending influx of usefull plugins and a
+tools like neovim, tmux, lazygit and a never-ending influx of useful plugins and a
 thriving helpful community around it.
 
 > The reason why I feel that open-source is broken, is that people, who provide truly useful
 > code, are not adequately rewarded. I feel that the big tech monopolies
 > abuse the open source community as modern day slaves. They use, abuse, learn from, and monetize,
-> , open-source work for free. Even the current AI coding agents 'ab'use the open source code without
+> , open-source work for free. Even the current AI coding agents abuse the open source code without
 > remuneration.
 
 I first switched from VSCode and Jetbrains to Neovim. Then I added tmux to the mix, and finally lazygit.
@@ -68,7 +68,7 @@ Our brains can process books quite good. Books are treasure-troves of informatio
 have to explain the benefits of a book, but here goes:
 
 1. The information is structured, and you can easily find it.
-2. You can read, re-read, ... and apply the steps.
+2. You can read, re-read, and apply the steps.
 
 The reason why I am writing this book, is because I haven't found a book covering how to configure your
 Neovim, Tmux, and Lazygit terminal development environment. There are thousands of mixed-quality videos,
@@ -81,7 +81,7 @@ Read the source-code of open source projects.
 ## Use AI wisely, or even better, don't use it.
 
 First of all, AI is just machine learning from other people's code. So called AI can
-not assertain the true quality of other people's code it is 'learning' from.
+not ascertain the true quality of other people's code it is 'learning' from.
 
 > Garbage in, garbage out.
 

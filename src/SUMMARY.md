@@ -20,6 +20,8 @@
   - [Navigating Large Files](neovim/navigating_large_files.md)
   - [Telescope: Your new best friend](neovim/telescope.md)
   - [Lazygit Neovim Workflow](neovim/lazygit.md)
+  - [Spellcheck in Neovim](neovim/spell_check.md)
+  - [Inlay hints](neovim/inlay_hints.md)
 
 - [Neovim Patterns](neovim_patterns/README.md)
 
