@@ -51,6 +51,10 @@
   - [Managing Projects via tms](tmux/managing_projects.md)
   - [Using tmux interactively](tmux/using_tmux_interactively.md)
 
+- [Data Science & AI](ds_ai/README.md)
+
+  - [Jupyter on Rust](ds_ai/jupyter_rust.md)
+
 - [Terminal Cli Tools](cli_tools/README.md)
 
   - [yazi File Navigator](cli_tools/yazi.md)
