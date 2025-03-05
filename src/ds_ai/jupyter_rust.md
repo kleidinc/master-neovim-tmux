@@ -1,5 +1,7 @@
 # Jupyter on Rust
 
+to check later [another mirror impl](https://neovimcraft.com/plugin/SUSTech-data/neopyter/)
+
 ### Installing EvCxR
 
 ```bash
@@ -12,6 +14,13 @@ cargo install --locked evcxr_repl
 # By default will install in $HOME/.local/share/jupyter/kernels/
 rustup component add rust-src
 # To run jupyter in the classic way in the browser `jupyter notebook`
+```
+
+### Install Rust Crates for ML/AI
+
+```bash
+cargo install ndarray
+cargo install plotly
 ```
 
 #### How to list which Jupyter kernels you have installed?
